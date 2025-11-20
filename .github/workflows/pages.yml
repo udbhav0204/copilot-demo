@@ -1,0 +1,13 @@
+
+---
+
+## **API Overview (Auto-Generated with Copilot)**
+
+```markdown
+### API Overview
+
+- **add(a, b)** → Returns the sum of two numbers.  
+- **subtract(a, b)** → Returns the difference between two numbers.  
+- **is_even(n)** → Returns `True` if the number is even, otherwise `False`.  
+
+These APIs are part of the project's `src/math_utils.py` module and include docstrings to support code understanding and auto-generated documentation tools.
